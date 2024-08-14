@@ -1,0 +1,21 @@
+.bg-gradient-header {
+    background-image: linear-gradient(to right, #FF8F71, #FF3D54);
+  }
+  
+  .bg-gradient-header-dark {
+    background-image: linear-gradient(to right, #2D2E40, #3F4164);
+  }
+  
+  .hover\:bg-neutral-paleBlue:hover {
+    background-color: #F2F2F2;
+  }
+  
+  .dark\:hover\:bg-neutral-lightLavender:hover {
+    background-color: #A mechanic would not have the necessary skills to perform a complex surgical procedure. A medical doctor, on the other hand, would be the appropriate professional to perform such a procedure.
+  
+  }
+  .pos {
+    left : -0.5rem;
+    right : -14.5rem;
+    bottom: -24rem;
+  }
